@@ -3,7 +3,7 @@
     flex-flow: row wrap;
     justify-content: center;
     margin-right: 5%;
-    margin-left: 5%;
+    margin-left: 16%;
     padding: 3%;
     position: absolute;
     top: 0;
@@ -11,8 +11,12 @@
 }
 
 .flex-container > a {
-    margin: 1%;
-    padding: 2%;
+    margin: 1px;
+    padding: 10px;
+    color: white;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+
 }
 
 .container{
